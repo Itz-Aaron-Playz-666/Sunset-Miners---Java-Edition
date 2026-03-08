@@ -442,3 +442,10 @@ FodyWeavers.xsd
 
 # virtual machine crash logs, see http://www.java.com
 hs_err_pid*
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# DevContainer
+.devcontainer/
